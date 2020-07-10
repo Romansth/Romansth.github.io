@@ -213,10 +213,18 @@ img{
   color: var(--first-color);
 }
 .home__img{
-  position: right;
-  right: 100;
+    position: center;
+
+  display :block ;
+
+  margin:-150px  auto 0 auto;
+
   bottom: 0;
-  width: 100px;
+
+  width: 100px
+  
+  
+
 }
 
 /*BUTTONS*/
