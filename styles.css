@@ -424,7 +424,10 @@ img{
   }
   .home__img{
     width: 127px;
+    display:block;
+    margin:0px auto;
     bottom: 15%;
+
   }
 
   .about__container, .skills__container{
