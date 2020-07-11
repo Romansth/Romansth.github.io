@@ -316,6 +316,7 @@ img{
 }
 .work__container{
   row-gap: 2rem;
+  width: max_content
 }
 .work__img{
   box-shadow: 0 4px 25px rgba(14,36,49,.15);
